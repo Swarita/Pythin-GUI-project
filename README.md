@@ -1,1 +1,1 @@
-# Pythin-GUI-project
+# Python-GUI-project
